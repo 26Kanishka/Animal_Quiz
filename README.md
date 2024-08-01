@@ -16,3 +16,6 @@ Features :-
 Technologies Used :-
 
 Python: The game is implemented using Python, leveraging its capabilities for input handling and control flow.
+
+![animal](https://github.com/user-attachments/assets/83e86cda-7fdd-44e7-a7e3-fba5aa23e3b7)
+
